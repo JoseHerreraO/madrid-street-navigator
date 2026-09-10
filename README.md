@@ -136,8 +136,7 @@ use.
 
 ## Authors
 
-Developed by [José Herrera Ortiz](https://github.com/JoseHerreraO) and
-Gonzalo Crespo Comín.
+Developed by [José Herrera Ortiz](https://github.com/JoseHerreraO)
 
 ## License
 
